@@ -1,0 +1,1809 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders loading buttons 1`] = `
+.c0 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  color: transparent !important;
+  pointer-events: none;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+.c0:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c0:after {
+  content: '';
+  display: block;
+  position: absolute;
+  height: 1rem;
+  width: 1rem;
+  left: 50%;
+  top: 50%;
+  margin-left: -.5rem;
+  margin-top: -.5rem;
+  border: 2px solid #ffffff;
+  border-right-color: transparent;
+  border-radius: 2rem;
+  -webkit-animation: spin 600ms infinite linear;
+  animation: spin 600ms infinite linear;
+}
+
+.c1 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #1FE9AE;
+  background-image: linear-gradient(-85deg,#1FE9AE 0%,#3ED3CF 100%);
+  color: #ffffff;
+  color: transparent !important;
+  pointer-events: none;
+}
+
+.c1:focus {
+  outline: none;
+}
+
+.c1:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c1:after {
+  content: '';
+  display: block;
+  position: absolute;
+  height: 1rem;
+  width: 1rem;
+  left: 50%;
+  top: 50%;
+  margin-left: -.5rem;
+  margin-top: -.5rem;
+  border: 2px solid #ffffff;
+  border-right-color: transparent;
+  border-radius: 2rem;
+  -webkit-animation: spin 600ms infinite linear;
+  animation: spin 600ms infinite linear;
+}
+
+.c2 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #1FE9AE;
+  color: #ffffff;
+  color: transparent !important;
+  pointer-events: none;
+}
+
+.c2:focus {
+  outline: none;
+}
+
+.c2:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c2:after {
+  content: '';
+  display: block;
+  position: absolute;
+  height: 1rem;
+  width: 1rem;
+  left: 50%;
+  top: 50%;
+  margin-left: -.5rem;
+  margin-top: -.5rem;
+  border: 2px solid #ffffff;
+  border-right-color: transparent;
+  border-radius: 2rem;
+  -webkit-animation: spin 600ms infinite linear;
+  animation: spin 600ms infinite linear;
+}
+
+.c3 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #2d2d2d;
+  color: #ffffff;
+  color: transparent !important;
+  pointer-events: none;
+}
+
+.c3:focus {
+  outline: none;
+}
+
+.c3:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c3:after {
+  content: '';
+  display: block;
+  position: absolute;
+  height: 1rem;
+  width: 1rem;
+  left: 50%;
+  top: 50%;
+  margin-left: -.5rem;
+  margin-top: -.5rem;
+  border: 2px solid #ffffff;
+  border-right-color: transparent;
+  border-radius: 2rem;
+  -webkit-animation: spin 600ms infinite linear;
+  animation: spin 600ms infinite linear;
+}
+
+.c4 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #e74c3c;
+  color: #ffffff;
+  color: transparent !important;
+  pointer-events: none;
+}
+
+.c4:focus {
+  outline: none;
+}
+
+.c4:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c4:after {
+  content: '';
+  display: block;
+  position: absolute;
+  height: 1rem;
+  width: 1rem;
+  left: 50%;
+  top: 50%;
+  margin-left: -.5rem;
+  margin-top: -.5rem;
+  border: 2px solid #ffffff;
+  border-right-color: transparent;
+  border-radius: 2rem;
+  -webkit-animation: spin 600ms infinite linear;
+  animation: spin 600ms infinite linear;
+}
+
+.c5 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  padding: .45em .85em;
+  font-size: .7em;
+  line-height: 1.2;
+  color: transparent !important;
+  pointer-events: none;
+}
+
+.c5:focus {
+  outline: none;
+}
+
+.c5:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c5:after {
+  content: '';
+  display: block;
+  position: absolute;
+  height: 1rem;
+  width: 1rem;
+  left: 50%;
+  top: 50%;
+  margin-left: -.5rem;
+  margin-top: -.5rem;
+  border: 2px solid #ffffff;
+  border-right-color: transparent;
+  border-radius: 2rem;
+  -webkit-animation: spin 600ms infinite linear;
+  animation: spin 600ms infinite linear;
+}
+
+.c6 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  padding: .65em 2em;
+  font-size: 1em;
+  color: transparent !important;
+  pointer-events: none;
+}
+
+.c6:focus {
+  outline: none;
+}
+
+.c6:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c6:after {
+  content: '';
+  display: block;
+  position: absolute;
+  height: 1rem;
+  width: 1rem;
+  left: 50%;
+  top: 50%;
+  margin-left: -.5rem;
+  margin-top: -.5rem;
+  border: 2px solid #ffffff;
+  border-right-color: transparent;
+  border-radius: 2rem;
+  -webkit-animation: spin 600ms infinite linear;
+  animation: spin 600ms infinite linear;
+}
+
+<div>
+  <button
+    className="c0"
+    label="Loading"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Loading
+  </button>
+  <button
+    className="c1"
+    label="Loading"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Loading
+  </button>
+  <button
+    className="c2"
+    label="Loading"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Loading
+  </button>
+  <button
+    className="c3"
+    label="Loading"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Loading
+  </button>
+  <button
+    className="c4"
+    label="Loading"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Loading
+  </button>
+  <button
+    className="c5"
+    label="Loading"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Loading
+  </button>
+  <button
+    className="c6"
+    label="Loading"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Loading
+  </button>
+</div>
+`;
+
+exports[`renders outlined buttons 1`] = `
+.c0 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  padding-top: calc(.375em - 2px);
+  padding-bottom: calc(.375em - 2px);
+  background: transparent;
+  border: 2px solid #626262;
+  color: #626262;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+.c0:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c0:hover {
+  background: #626262;
+  color: #ffffff;
+}
+
+.c1 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #1FE9AE;
+  background-image: linear-gradient(-85deg,#1FE9AE 0%,#3ED3CF 100%);
+  color: #ffffff;
+  padding-top: calc(.375em - 2px);
+  padding-bottom: calc(.375em - 2px);
+  background: transparent;
+  border: 2px solid #626262;
+  color: #626262;
+}
+
+.c1:focus {
+  outline: none;
+}
+
+.c1:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c1:hover {
+  background: #626262;
+  color: #ffffff;
+}
+
+.c2 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #1FE9AE;
+  color: #ffffff;
+  padding-top: calc(.375em - 2px);
+  padding-bottom: calc(.375em - 2px);
+  background: transparent;
+  border: 2px solid #626262;
+  color: #626262;
+}
+
+.c2:focus {
+  outline: none;
+}
+
+.c2:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c2:hover {
+  background: #626262;
+  color: #ffffff;
+}
+
+.c3 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #2d2d2d;
+  color: #ffffff;
+  padding-top: calc(.375em - 2px);
+  padding-bottom: calc(.375em - 2px);
+  background: transparent;
+  border: 2px solid #626262;
+  color: #626262;
+}
+
+.c3:focus {
+  outline: none;
+}
+
+.c3:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c3:hover {
+  background: #626262;
+  color: #ffffff;
+}
+
+.c4 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #e74c3c;
+  color: #ffffff;
+  padding-top: calc(.375em - 2px);
+  padding-bottom: calc(.375em - 2px);
+  background: transparent;
+  border: 2px solid #626262;
+  color: #626262;
+}
+
+.c4:focus {
+  outline: none;
+}
+
+.c4:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c4:hover {
+  background: #626262;
+  color: #ffffff;
+}
+
+<div>
+  <button
+    className="c0"
+    label="Outlined"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Outlined
+  </button>
+  <button
+    className="c1"
+    label="Outlined"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Outlined
+  </button>
+  <button
+    className="c2"
+    label="Outlined"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Outlined
+  </button>
+  <button
+    className="c3"
+    label="Outlined"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Outlined
+  </button>
+  <button
+    className="c4"
+    label="Outlined"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Outlined
+  </button>
+</div>
+`;
+
+exports[`renders pill buttons 1`] = `
+.c0 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  border-radius: 10em;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+.c0:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c1 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #1FE9AE;
+  background-image: linear-gradient(-85deg,#1FE9AE 0%,#3ED3CF 100%);
+  color: #ffffff;
+  border-radius: 10em;
+}
+
+.c1:focus {
+  outline: none;
+}
+
+.c1:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c2 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #1FE9AE;
+  color: #ffffff;
+  border-radius: 10em;
+}
+
+.c2:focus {
+  outline: none;
+}
+
+.c2:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c3 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #2d2d2d;
+  color: #ffffff;
+  border-radius: 10em;
+}
+
+.c3:focus {
+  outline: none;
+}
+
+.c3:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c4 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #e74c3c;
+  color: #ffffff;
+  border-radius: 10em;
+}
+
+.c4:focus {
+  outline: none;
+}
+
+.c4:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+<div>
+  <button
+    className="c0"
+    label="Pill"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Pill
+  </button>
+  <button
+    className="c1"
+    label="Pill"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Pill
+  </button>
+  <button
+    className="c2"
+    label="Pill"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Pill
+  </button>
+  <button
+    className="c3"
+    label="Pill"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Pill
+  </button>
+  <button
+    className="c4"
+    label="Pill"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Pill
+  </button>
+</div>
+`;
+
+exports[`renders pill outlined buttons 1`] = `
+.c0 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  padding-top: calc(.375em - 2px);
+  padding-bottom: calc(.375em - 2px);
+  background: transparent;
+  border: 2px solid #626262;
+  color: #626262;
+  border-radius: 10em;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+.c0:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c0:hover {
+  background: #626262;
+  color: #ffffff;
+}
+
+.c1 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #1FE9AE;
+  background-image: linear-gradient(-85deg,#1FE9AE 0%,#3ED3CF 100%);
+  color: #ffffff;
+  padding-top: calc(.375em - 2px);
+  padding-bottom: calc(.375em - 2px);
+  background: transparent;
+  border: 2px solid #626262;
+  color: #626262;
+  border-radius: 10em;
+}
+
+.c1:focus {
+  outline: none;
+}
+
+.c1:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c1:hover {
+  background: #626262;
+  color: #ffffff;
+}
+
+.c2 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #1FE9AE;
+  color: #ffffff;
+  padding-top: calc(.375em - 2px);
+  padding-bottom: calc(.375em - 2px);
+  background: transparent;
+  border: 2px solid #626262;
+  color: #626262;
+  border-radius: 10em;
+}
+
+.c2:focus {
+  outline: none;
+}
+
+.c2:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c2:hover {
+  background: #626262;
+  color: #ffffff;
+}
+
+.c3 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #2d2d2d;
+  color: #ffffff;
+  padding-top: calc(.375em - 2px);
+  padding-bottom: calc(.375em - 2px);
+  background: transparent;
+  border: 2px solid #626262;
+  color: #626262;
+  border-radius: 10em;
+}
+
+.c3:focus {
+  outline: none;
+}
+
+.c3:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c3:hover {
+  background: #626262;
+  color: #ffffff;
+}
+
+.c4 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #e74c3c;
+  color: #ffffff;
+  padding-top: calc(.375em - 2px);
+  padding-bottom: calc(.375em - 2px);
+  background: transparent;
+  border: 2px solid #626262;
+  color: #626262;
+  border-radius: 10em;
+}
+
+.c4:focus {
+  outline: none;
+}
+
+.c4:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c4:hover {
+  background: #626262;
+  color: #ffffff;
+}
+
+<div>
+  <button
+    className="c0"
+    label="Pill & Outlined"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Pill & Outlined
+  </button>
+  <button
+    className="c1"
+    label="Pill & Outlined"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Pill & Outlined
+  </button>
+  <button
+    className="c2"
+    label="Pill & Outlined"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Pill & Outlined
+  </button>
+  <button
+    className="c3"
+    label="Pill & Outlined"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Pill & Outlined
+  </button>
+  <button
+    className="c4"
+    label="Pill & Outlined"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Pill & Outlined
+  </button>
+</div>
+`;
+
+exports[`renders standard buttons 1`] = `
+.c0 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+}
+
+.c0:focus {
+  outline: none;
+}
+
+.c0:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c1 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #1FE9AE;
+  background-image: linear-gradient(-85deg,#1FE9AE 0%,#3ED3CF 100%);
+  color: #ffffff;
+}
+
+.c1:focus {
+  outline: none;
+}
+
+.c1:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c2 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #1FE9AE;
+  color: #ffffff;
+}
+
+.c2:focus {
+  outline: none;
+}
+
+.c2:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c3 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #2d2d2d;
+  color: #ffffff;
+}
+
+.c3:focus {
+  outline: none;
+}
+
+.c3:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c4 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: #e74c3c;
+  color: #ffffff;
+}
+
+.c4:focus {
+  outline: none;
+}
+
+.c4:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c5 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  padding: .375em 1.2em;
+  height: auto;
+  overflow: hidden;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 0;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: 'proxima-nova','Helvetica Neue',helvetica,sans-serif;
+  font-weight: 600;
+  font-size: .85em;
+  line-height: 1.5;
+  -webkit-letter-spacing: .075em;
+  -moz-letter-spacing: .075em;
+  -ms-letter-spacing: .075em;
+  letter-spacing: .075em;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition: all .15s linear,-webkit-transform .1s ease;
+  -webkit-transition: all .15s linear,transform .1s ease;
+  transition: all .15s linear,transform .1s ease;
+  background: #626262;
+  color: rgba(255,255,255,0.7);
+  background: transparent;
+  color: #626262;
+}
+
+.c5:focus {
+  outline: none;
+}
+
+.c5:active {
+  -webkit-transform: scale(.96);
+  -ms-transform: scale(.96);
+  transform: scale(.96);
+}
+
+.c5:hover {
+  color: #2d2d2d;
+}
+
+<div>
+  <button
+    className="c0"
+    label="Default"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Default
+  </button>
+  <button
+    className="c1"
+    label="Fancy"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Fancy
+  </button>
+  <button
+    className="c2"
+    label="Primary"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Primary
+  </button>
+  <button
+    className="c3"
+    label="Secondary"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Secondary
+  </button>
+  <button
+    className="c4"
+    label="Danger"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Danger
+  </button>
+  <button
+    className="c5"
+    label="Text"
+    onMouseOut={[Function]}
+    onMouseOver={[Function]}
+  >
+    Text
+  </button>
+</div>
+`;
